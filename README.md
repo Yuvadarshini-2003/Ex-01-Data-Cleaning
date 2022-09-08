@@ -92,3 +92,6 @@ sns.boxplot(x="rating",data=df)
 
 ## SNS PLOT - RATING:
 ![OUTPUT](10.jpg)
+
+### RESULT:
+Thus ,the given data is read and cleansed and the cleaned data is saved into the file.
